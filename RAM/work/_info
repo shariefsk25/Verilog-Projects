@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/RAM
+vram
+Z0 !s110 1756188159
+!i10b 1
+!s100 QCKkk3B4@8oP3UBGjaY6>1
+ILE?m:1WDTUJ12W2>2^7e63
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SHARI/OneDrive/Desktop/VerilogBySharief/PROJECTS/RAM
+Z3 w1756188035
+Z4 8ram.v
+Z5 Fram.v
+L0 4
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1756188159.000000
+Z8 !s107 ram.v|
+Z9 !s90 -reportprogress|300|ram.v|
+!i113 1
+Z10 tCvgOpt 0
+vtb
+R0
+!i10b 1
+!s100 S5TN3=RW@V?FDeFH<nj0F3
+IS1=c=Rd;3IE4zl;GAzU_=3
+R1
+R2
+R3
+R4
+R5
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
